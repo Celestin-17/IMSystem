@@ -25,7 +25,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Secured credentials  (environmental variables loaded from a separate .env file)
 
-• Password Recovery  (email address and date of birth are being requested, afterwards a new password is generated and sent to the accoount's email address)
+• Password Recovery  (email address and date of birth are being requested, after confirmation a new password is generated and sent to the accoount's email address)
 
 • Dedicated pages for creating, managing, and updating products, sales, employees, suppliers, and product categories
 

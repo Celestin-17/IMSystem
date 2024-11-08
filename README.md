@@ -50,7 +50,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 # Installation
 
-- To set up your environment for launching the app, you need to create a .env file in the root directory of your project. This file will store sensitive information such as your PostgreSQL database parameters and SMTP credentials, which the application can read to connect to the database and send emails.
+- To set up your environment for launching the app, you need to create a .env file in the root directory of your project. There you need to fill in the credentials for your PostgreSQL database and the SMTP credentials.
 
 - Once the .env file is created, you need to run create_db.py to initialize the db tables
 

@@ -24,9 +24,11 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Separated Dashboards  (employees have limited access, they can only record sales, use the search feature and manage their account's settings)
 
-• Create/Update Switch  (whenever you select an item, you are going to execute update operations on it, to switch you must click on the 'reset' button)
+• Create/Update Switch  (each time you select an item, update operations will be performed on it. To switch, you must click the 'reset' button)
 
-• Automated Invoices that are created in the 'Invoices' folder with the customer's name upon recording a sale
+• Automated Invoice Generator  (will be created in 'Invoices' folder with the customer's name upon recording a sale)
+
+• Refresh Button  (reloads data on the table, normally they are updated automatically but it's there just in case)
 
 • Real-time data on the dashboard displaying total products, available stock, total sales, and total income generated
 

@@ -12,4 +12,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 # Program features:
 
-• Optimized User Interface (since Tkinter graphics are very old aged I utilised 70+ images for the widgets and every button it's a label at base with 3 functions binded to act as one)
+• Optimized User Interface : Since Tkinter graphics are very old aged I incorporated 70+ images for the UI Widgets and every button it's a label at base with 3 functions bound to act as one.
+• Login System (based on EmployeeID that is given upon employees creation)
+• Secured queries (only parameterized queries executed from a separate DBHandler Class)
+• Password Recovery (new password is generated and sent to the accoount's email address)

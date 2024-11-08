@@ -1,7 +1,7 @@
 # Inventory Management System
 
 The Inventory Management System is a Python based GUI application using Tkinter and PostgresDB to streamline the tracking, organization, and control of inventory.
-The system provides real-time visibility into products and stock levels, sales records with automated invoice generation, along with the ability to track supplier and employee data.
+The system offers real-time insights into product and stock levels, sales records with automatic invoice generation, and the ability to track supplier and employee information.
 
 The program operates on 2 User Access Levels: ADMIN and Employee. 
 

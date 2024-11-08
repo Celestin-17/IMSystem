@@ -55,7 +55,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 - Once the .env file is created, you need to run create_db.py to initialize the db tables
 
 - Therefore you can launch your application, the default admin login credentials:  EmployeeID: '1'  ||  Password: 'ADMIN'
-- By creating an employee you give access permission, to give them admin permission you must set their 'usertype' as 'admin' 
+- Creating an employee grants access permissions, to assign admin privileges, you must set their 'usertype' to 'admin'
 
 - Before adding any products, you must create a category and have a supplier.
 

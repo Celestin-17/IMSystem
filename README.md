@@ -18,7 +18,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Secured backend  (only parameterized queries executed from a separate DBHandler Class)
 
-• Password Recovery  (new password is generated and sent to the accoount's email address)
+• Password Recovery  (email address and date of birth are being requested, afterwards a new password is generated and sent to the accoount's email address)
 
 • Dedicated pages for creating, managing, and updating products, sales, employees, suppliers, and product categories
 
@@ -34,6 +34,6 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Search feature  (available on products and sales records)
 
-• Account Settings Page  (where you can change your email, password or phone number, for email changing a confirmation key is being sent to the new email address)
+• Account Settings Page  (you can change your email, password or phone number, for email changing a confirmation key will be sent to the new email address)
 
 • Real-time updated timestamp at bottom of every page

@@ -4,7 +4,7 @@ The Inventory Management System is a Python based GUI application using Tkinter 
 The system offers real-time insights into product and stock levels, sales records with automatically generated invoices and the ability to track and manage supplier and employee information.
 
 
-The program operates on 2 User Access Levels: ADMIN and Employee. 
+The program operates on 2 User Access Levels: Admin and Employee. 
 
 
 Employees have a separate dashboard with limited access, allowing them only to record sales and update their personal account settings such as email, phone number, and password.
@@ -49,4 +49,14 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 
 # Installation
- 
+
+- To set up your environment for launching the app, you need to create a .env file in the root directory of your project. This file will store sensitive information such as your PostgreSQL database parameters and SMTP credentials, which the application can read to connect to the database and send emails.
+
+- Once the .env file is created, you need to run create_db.py to initialize the db tables
+
+- Therefore you can launch your application, the default admin login credentials:  EmployeeID: '1'  ||  Password: 'ADMIN'
+- By creating an employee you give access permission, to give them admin permission you must set their 'usertype' as 'admin' 
+
+- Before adding any products, you must create a category and have a supplier.
+
+- Enjoy

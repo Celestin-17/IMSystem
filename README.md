@@ -16,15 +16,15 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Login System  (based on EmployeeID that is given upon employee creation)
 
-• Security  (only parameterized queries executed from a separate DBHandler Class)
+• Secured backend  (only parameterized queries executed from a separate DBHandler Class)
 
 • Password Recovery  (new password is generated and sent to the accoount's email address)
 
 • Dedicated pages for creating, managing, and updating products, sales, employees, suppliers, and product categories
 
-• Separated Dashboards (employees have limited access, they can only record sales, use the search feature and manage their account's settings)
+• Separated Dashboards  (employees have limited access, they can only record sales, use the search feature and manage their account's settings)
 
-• Create/Update Switch (whenever you select an item, you are going to execute update operations on it, to switch you must click on the 'reset' button)
+• Create/Update Switch  (whenever you select an item, you are going to execute update operations on it, to switch you must click on the 'reset' button)
 
 • Automated Invoices that are created in the 'Invoices' folder with the customer's name upon recording a sale
 
@@ -34,6 +34,6 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Search feature  (available on products and sales records)
 
-• Account Settings Page (where you can change your email, password or phone number, for email changing a confirmation key is being sent to the new email address)
+• Account Settings Page  (where you can change your email, password or phone number, for email changing a confirmation key is being sent to the new email address)
 
 • Real-time updated timestamp at bottom of every page

@@ -61,6 +61,8 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 - Enjoy
 
+# Screenshots
+
 
 ![Screenshot 2024-11-06 at 22 43 10](https://github.com/user-attachments/assets/ce2bf7a1-7cbd-4cb3-bac7-01b52e5d972c) 
 ![Screenshot 2024-11-07 at 13 12 40](https://github.com/user-attachments/assets/df5ce535-627e-4a06-85d3-faefead835da)

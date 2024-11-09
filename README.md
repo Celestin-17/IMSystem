@@ -33,7 +33,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Create/Update Switch  (each time you select an item, update operations will be performed on it, to switch, you must click the 'reset' button)
 
-• Automated Invoice Generator  (invoices will be generated into 'Invoices' folder and named by the customer's name after recording the sale)
+• Automated Invoice Generator  (invoices will be generated into 'Invoices' folder and named by the customer's name upon recording the sale)
 
 • Refresh Button  (reloads data on the table, it's automatically updated after performing any db operation but it's there just in case)
 

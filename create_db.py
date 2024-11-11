@@ -11,7 +11,7 @@ queries = (
     CREATE TABLE IF NOT EXISTS employees (
         emp_id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
-        password VARCHAR(255) NOT NULl, 
+        password VARCHAR(255) NOT NULL,
         email VARCHAR(255) UNIQUE,
         gender VARCHAR(40),
         birthday DATE,

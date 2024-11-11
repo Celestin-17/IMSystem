@@ -73,6 +73,7 @@ queries = (
 
 import credentials
 import psycopg2
+
 def db_init():
     try:
         with psycopg2.connect(**credentials.connection_params) as conn:

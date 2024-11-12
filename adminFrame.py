@@ -53,13 +53,6 @@ class AdminFrame():
         self.price_img = PhotoImage(file="./images/price.png")
         self.stock_img = PhotoImage(file="./images/stock.png")
         self.unit_img = PhotoImage(file="./images/unit.png")
-        self.db_params = {
-            "database" : "postgres",
-            "user" : "Celestin",
-            "password" : "10august",
-            "host" : "localhost",
-            "port" : "5432"
-        }
         self.GUI()
 
     def GUI(self):

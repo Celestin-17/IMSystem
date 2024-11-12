@@ -17,14 +17,6 @@ class RegisterFrame():
         self.user = user
         self.isAdmin = isAdmin
         self.emp_id = emp_id
-        self.db_params = {
-            "database" : "postgres",
-            "user" : "Celestin",
-            "password" : "10august",
-            "host" : "localhost",
-            "port" : "5432"
-        }
-
         self.updating = False
         self.today = dt.datetime.today()
         self.timezone = pytz.timezone("Europe/Bucharest")

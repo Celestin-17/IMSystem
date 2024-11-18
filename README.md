@@ -16,6 +16,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 # Program features:
 
+• Object Oriented Approach
 
 • Optimized User Interface (since Tkinter graphics are slightly old aged, I edited and incorporated 70+ images for the UI Widgets)
 
@@ -29,7 +30,7 @@ The Admin Dashboard provides live data on total products, stock availability, to
 
 • Password Recovery  (email and date of birth are requested, after confirmation a new password is generated and sent to the account's email address)
 
-• Dedicated pages for creating, managing, and updating products, sales, employees, suppliers, and product categories
+• Dedicated pages for creating, managing, and updating products, sales, employees, suppliers and product categories
 
 • Separated Dashboards  (employees have limited access, they can only record sales, use the search feature and manage their account's settings)
 
